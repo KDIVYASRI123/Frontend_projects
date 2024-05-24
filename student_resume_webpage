@@ -1,0 +1,140 @@
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <a href="<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"></a>
+    <a href="<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script></a>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    
+    <style>
+      h1{
+      margin:25px;
+      }
+    </style>
+    <center>
+    <h1 style="color:red; font-size:200%"><u>
+      *RESUME*</u>
+    </h1>
+    <body> 
+        <body background="data:image/jpeg;base64,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"> 
+        <body background="https://images.pexels.com/photos/131634/pexels-photo-131634.jpeg?auto=compress&cs=tinysrgb&w=1600">
+            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> 
+        
+     
+    </center>
+    <center>
+    <img src="https://cdn.glitch.global/57f5966b-516d-4b91-a8ee-99081179692d/girl%20cartoon%20image.jfif?v=1690172001164" border="2" style="border-color:maroon;">
+    
+      <h2  style="color:green;">
+      NAME: KUDUPUDI DIVYA SRI
+    </h2>
+    <h2 style="color:indigo;">
+      FATHER NAME: K.CHIRANJEEVI BABU
+    </h2>
+    <h2 style="color:maroon;">
+      MOTHER NAME: K.DURGA BHAVANI
+    </h2>
+    <h2  style="color:blue;">
+      GRADUATION: VIT-B
+    </h2>
+    <h2  style="color:orange;">
+      NATIONALITY: INDIAN
+    </h2>
+      <h2 style="color:blue;">
+      OBJECTIVE:My goal is to become a game designer<hr width="100%" color="green" size="15px" />
+      </h2>
+  </head>
+    </center>
+  <center>
+  <h3  style="color:green;">
+    EDUCATIONAL DETAILS
+    </h3>
+    <img src="https://cdn.glitch.global/57f5966b-516d-4b91-a8ee-99081179692d/book%20image.jfif?v=1690171997496" border="2" style="border-color:blue;">
+    <table border="2" style="border-color:red;" style="color:green;">
+      <tr><hr width="100%" color="green" size="15px" />
+      <th>EDUCATION
+        </th>
+        <th>YEAR OF STUDY</th>
+      </tr>
+      <tr>
+      <td style="color:maroon;">10th CLASS</td>
+      <td style="color:indigo;">2020</td>
+      </tr>
+      <tr>
+      <td style="color:maroon;">INTERMEDIATE</td>
+      <td style="color:indigo;">2022</td>
+      </tr>
+    </table>
+  </center>
+  <center>
+  <style>
+  h3{
+    color:blue;
+    font-size:150%;
+    }
+  </style>
+  <h3>
+    TENTH CLASS EDUCATION:<h4 style="color:green; font-size:130%">
+    
+    97% aggregate</h4><hr width="100%" color="green" size="15px" />
+  </h3>
+  <h3>
+    INTERMEDIATE EDUCATION:<h4 style="color:green; font-size:130%">
+    
+    96% aggregate</h4><hr width="100%" color="green" size="15px" />
+  </h3>
+  <h3>
+    HOBBIES:<h4 style="color:green; font-size:130%">
+    
+    Reading books,Computer programming</h4><hr width="100%" color="green" size="15px" />
+  </h3>
+  <h3>
+    SKILLS:<h4 style="color:green; font-size:130%">
+    
+    Communication skills,Coding skills</h4><hr width="100%" color="green" size="15px" />
+  </h3>
+  <h3>
+    INTERESTED COURSES:<h4 style="color:green; font-size:130%">
+    
+    Artificial intelligence,Machine learning</h4><hr width="100%" color="green" size="15px" />
+  </h3>
+  </center>
+  <center>
+    <div><a href="https://www.shutterstock.com/shutterstock/photos/1153070891/display_1500/stock-vector-thank-you-poster-with-spectrum-brush-strokes-on-white-background-colorful-gradient-brush-design-1153070891.jpg">
+    <button type="button" class="btn btn-primary">---------THANKS FOR WATCHING---------</button></div></a><br><hr width="100%" color="green" size="15px" /></a>
+    <h2 style="color:blueviolet;">Guess which one of these is used most to prepare the resume</h2>
+    <div class="btn-group" role="group" aria-label="Basic outlined example">
+        <button type="button" class="btn btn-outline-primary"><a href="/home/vitit-1/Downloads/download.png">HTML</button></a>
+        <button type="button" class="btn btn-outline-primary"><a href="/home/vitit-1/Downloads/download (1).jpeg">CSS</button></a>
+        <button type="button" class="btn btn-outline-primary"><a href="/home/vitit-1/Downloads/download (1).jpeg">JS</button></a>
+        <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+           
+          <div class="progress-bar bg-success" style="width: 25%"></div>
+          </div>
+      <div class="card" style="width: 18rem;">
+        <img src="/home/vitit-1/Downloads/download (5).jpeg" class="card-img-top" alt="HTML">
+        <div class="card-body">
+          <h5 class="card-title">To learn HTML:</h5>
+          <p class="card-text">Use online websites</p>
+          <a href="https://www.w3schools.com/" class="btn btn-primary">For more info...</a></div><hr width="100%" color="green" size="15px" /><h1>Markup Language</h1>
+      <div class="progress" role="progressbar" aria-label="Info example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar bg-info text-dark" style="width: 50%">50% JS</div>
+      </div><br><br>
+      <div class="progress" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar bg-warning text-dark" style="width: 75%">75% CSS</div>
+      </div><br><br>
+      <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar bg-danger" style="width: 100%">100% HTML</div>
+      </div><br><br>
+  </center>
+  
+  <hr width="100%" color="green" size="15px" />
+  <hr width="100%" color="green" size="15px" />
+  <hr width="100%" color="green" size="15px" />
+  <hr width="100%" color="green" size="15px" />
+</body>
+</html>
+ <div class="progress-bar bg-success" style="width: 25%"></div>
+          </div>
