@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html><center>
+  <head>
+    <style>
+      body{
+        background-image: url("https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg");
+      }
+      h2
+      {
+        font-size:50px;
+      }
+      h3 {
+        color:purple;
+          font-size:50px;
+      }
+      p {
+        color:teal;
+        text-decoration:underline dotted teal;
+        font-size:50px;
+        font-style:sans-serif;
+      }
+    </style>
+    <title>FLAGS</title>
+    <h1><center>
+      <u style="color:red;">NAMES,FLAGS WITH THEIR FAMOUS PLACES OF SOME COUNTRIES.</center></u>   
+    </h1>
+  </head>
+  <body>
+    <h2 style="color:green;">
+      Let us learn about flags of various countries.<br>
+      Test your general knowledge...........?
+    </h2>
+    <p>
+    <center>
+    <p>
+      
+      Taj Mahal</p><br>
+    <img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/b37c3e26-46b9-4224-b21d-424db4d28cdb.taj%20mahal.jpeg?v=1691831939283" width=400px height=400px><br>
+    <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/indian%20flag.png?v=1691832436024" width=350px height=350px><br>
+      </center>
+      </p>
+      <h3>
+        
+        <br> Thisis TajMahal in India.Taj Mahal is in India.This is the flag of India.</br></h3>
+    <p>
+      <center>
+                    <p><br>Eiffel Tower</p></br>
+       <img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/eiffel%20tower.jpeg?v=1691832645653" width=400px height=400px><br>
+      <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/paris%20flag.jpeg?v=1691832860466"  width=350px height=350px><br>
+      </center>
+        </p>  
+          <h3>
+                This is Eiffel Tower.eiffel Tower is in Paris.It is the flag of Paris.</h3><br>
+        <p>
+          <center>
+            <br><p>
+                        Statue of Liberty</p></br>
+      <img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/statue%20of%20liberty.jpeg?v=1691833411202" width=400px height=400px><br>
+      <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/america%20flag.jpg?v=1691833400597"  width=350px height=350px><br>
+          </center>
+            </p>
+          <h3>
+            
+            
+            This is Statue of Liberty.Statue of Liberty is in USA.It is the flag of USA.</h3><br>
+    
+    <p><center><br><p>
+      
+      Great Wall of China</p></br>
+      <img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/great%20wall%20of%20china.jpeg?v=1691833797950" width=400px height=400px><br>
+      <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/china%20flag.png?v=1691833808013"  width=350px height=350px><br>
+      </center></p>
+      <h3>
+                                  This is Great Wall of China.Great Wall of China is in India.It is the flag of China.</h3><br>
+    <p><center>
+      <br><p>
+            Tower of Pisa</p></br>
+            <img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/tower%20of%20pisa.jpg?v=1691834069723" width=400px height=400px><br>
+      <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/rome%20flag.jpeg?v=1691834086022"  width=350px height=350px><br>
+      </center></p>
+      <h3>
+                This is Tower of Pisa.Tower of Pisa is in Rome.It is the flag of Rome.</h3><br>
+      <p>
+        <center><br><p>
+                    Parthenon</p></br><img style="border:5px double blue;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/greece.jpg?v=1691834592050" width=400px height=400px><br>
+    <img style="border:5px double green;" src="https://cdn.glitch.global/5caec127-38b6-495f-a176-97f2f07538fc/greece%20flag.jpeg?v=1691834637758"  width=350px height=350px><br>
+        </center></p>
+    <h3>This is Parthenon.Parthenon is in Greece.It is the flag of Greece.</h3><br>
+      </body>
+</center><center>
+<h2 style="color:blue;">
+  These are some of the famous places and flags of various countries.</center>
+</h2>
+</html>
