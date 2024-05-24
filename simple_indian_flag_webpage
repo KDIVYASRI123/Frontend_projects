@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>INDIAN FLAG</title>
+    <style>
+      p {
+        color:green;
+        font-style:sans-serif;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <script>
+    alert("Look at the webpage and learn more about Indian flag");
+  </script>
+    <h1 style="color:red;"><u>
+      ALL ABOUT INDIAN FLAG</u>
+    </h1>
+      <p>
+        The national flag of India, colloquially called Tiraṅgā (the tricolour), is a horizontal rectangular tricolour flag, the colours being of India saffron, white and India green; with the Ashoka Chakra, a 24-spoke wheel, in navy blue at its centre. It was adopted in its present form during a meeting of the Constituent Assembly held on 22 July 1947, and it became the official flag of the Union of India on 15 August 1947. The flag was subsequently retained as that of the Republic of India. In India, the term "tricolour" almost always refers to the Indian national flag.
+
+The flag is based on the Swaraj flag, a flag of the Indian National Congress adopted by Mahatma Gandhi after making significant modifications to the design proposed by Pingali Venkayya. This flag included charkha which was replaced with chakra in 1947 by Jawaharlal Nehru.
+
+Before the amendment of the flag code in 2021, the flag was by law only to be made of khadi; a special type of hand-spun cloth or silk, made popular by Mahatma Gandhi. The manufacturing process and specifications for the flag are laid out by the Bureau of Indian Standards. The right to manufacture the flag is held by the Khadi Development and Village Industries Commission, which allocates it to regional groups. As of 2023, there are 4 units in India that are licensed to manufacture the flag.
+
+Usage of the flag is governed by the Flag Code of India and other laws relating to the national emblems. The original code prohibited use of the flag by private citizens except on national days such as the Independence day and the Republic Day. In 2002, on hearing an appeal from a private citizen, Naveen Jindal, the Supreme Court of India directed the Government of India to amend the code to allow flag usage by private citizens. Subsequently, the Union Cabinet of India amended the code to allow limited usage. The code was amended once more in 2005 to allow some additional use including adaptations on certain forms of clothing. The flag code also governs the protocol of flying the flag and its use in conjunction with other national and non-national flags.
+
+
+      </p>
+      <img src="https://cdn.glitch.global/2964744a-4f8c-4c80-9a44-45842477f1b3/Flag_of_India.svg.png?v=1694438839549">
+      <p>
+        Finally, at the All India Congress Committee meeting in July 1923, at the insistence of Jawaharlal Nehru and Sarojini Naidu, Congress closed ranks and the flag movement was endorsed. The flag movement was managed by Sardar Vallabhbhai Patel with the idea of public processions and flag displays by common people. By the end of the movement, over 1500 people had been arrested across all of British India. The Bombay Chronicle reported that the movement drew from diverse groups of society including farmers, students, merchants, labourers and "national servants". While Muslim participation was moderate, the movement enthused women, who had hitherto rarely participated in the independence movement.
+
+While the flag agitation got its impetus from Gandhi's writings and discourses, the movement received political acceptance following the Nagpur incident. News reports, editorials and letters to editors published in various journals and newspapers of the time attest to the subsequent development of a bond between the flag and the nation. Soon, the concept of preserving the honour of the national flag became an integral component of the independence struggle. While Muslims were still wary of the Swaraj flag, it gained acceptance among Muslim leaders of the Congress and the Khilafat Movement as the national flag.
+      </p>
+    
+    <h2 style="color:grey;">
+      Thanks for watching
+    </h2>
+    </center>
+  
+   <script type="text/javascript">  
+
+ alert("Respect the flag of India");  
+
+</script>
+  </body>
+</html>
