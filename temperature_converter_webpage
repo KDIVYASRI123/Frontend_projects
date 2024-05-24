@@ -1,0 +1,123 @@
+<html>
+  <head>
+<title>Temperature Converter</title>
+<style>
+  body{
+    background-image:linear-gradient(orange,red);
+  }
+  .l1{
+color:brown;
+font-size:50px;
+  }
+  .one{
+    border:2px solid palevioletred;
+    background-color:aqua;
+    padding:4px;
+    padding-left:10px;
+    width:200px;
+    margin-top:100px;
+    margin-left:200px;
+    height:300px;
+  }
+  .two{
+    border:2px solid palevioletred;
+    background-color:aquamarine;
+    padding:4px;
+    padding-left:10px;
+    width:200px;
+    margin-top:-200px;
+    margin-left:550px;
+    height:300px;
+  }
+  .three{
+    border:2px solid palevioletred;
+    background-color:plum;
+    padding:4px;
+    padding-left:10px;
+    width:200px;
+    margin-top:-205px;
+    margin-left:900px;
+    height:300px;
+  }
+</style>
+</head>
+<body>
+<h2 class="l1">Temperature Converter</h2>
+<div class="one">
+  <h1>Fahrenheit Converter</h1>
+<p>
+  <label>Fahrenheit</label>
+  <input id="inputFahrenheit" type="number" placeholder="Fahrenheit" oninput="temperatureConverter1(this.value)" onchange="temperatureConverter1(this.value)">
+</p>
+<p>Celsius:<span id="outputCelsius1"></span></p>
+<label>Fahrenheit</label>
+<input id="inputFahrenheit" type="number" placeholder="Fahrenheit" oninput="temperatureConverter2(this.value)" onchange="temperatureConverter2(this.value)">
+</p>
+<p>Kelvin:<span id="outputKelvin1"></span></p>
+</div>
+
+
+<div class="two">
+  <h1>Celsius Converter</h1>
+<p>
+  <label>Celsius</label>
+  <input id="inputCelsius" type="number" placeholder="Celsius" oninput="temperatureConverter3(this.value)" onchange="temperatureConverter3(this.value)">
+</p>
+<p>Kelvin:<span id="outputKelvin2"></span></p>
+<label>Celsius</label>
+<input id="inputCelsius" type="number" placeholder="Celsius" oninput="temperatureConverter4(this.value)" onchange="temperatureConverter4(this.value)">
+</p>
+<p>Fanhrenheit:<span id="outputFahrenheit1"></span></p>
+</div>
+
+<div class="three">
+  <h1>Kelvin Converter</h1>
+<p>
+  <label>Kelvin</label>
+  <input id="inputKelvin" type="number" placeholder="Kelvin" oninput="temperatureConverter5(this.value)" onchange="temperatureConverter5(this.value)">
+</p>
+<p>Celsius:<span id="outputCelsius2"></span></p>
+<label>Kelvin</label>
+<input id="inputKelvin" type="number" placeholder="Kelvin" oninput="temperatureConverter6(this.value)" onchange="temperatureConverter6(this.value)">
+</p>
+<p>Fanhrenheit:<span id="outputFahrenheit2"></span></p>
+</div>
+
+
+<script>
+function temperatureConverter1(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputCelsius1").innerHTML=(valNum-32)/1.8;
+}
+function temperatureConverter2(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputKelvin1").innerHTML=(valNum-32)/1.8+273.15;
+}
+
+
+function temperatureConverter3(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputKelvin2").innerHTML=valNum+273.15;
+}
+function temperatureConverter4(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputFahrenheit1").innerHTML=(valNum*1.8)+ 32;
+}
+
+function temperatureConverter5(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputCelsius2").innerHTML=valNum-273.15;
+}
+function temperatureConverter6(valNum) {
+  valNum = parseFloat(valNum);
+  document.getElementById("outputFahrenheit2").innerHTML=((valNum-273.15)*1.8)+ 32;
+}
+
+
+
+
+
+</script>
+
+</body>
+</html>
